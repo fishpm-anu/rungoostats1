@@ -4,4 +4,4 @@ for datafile in *[AB].txt; do
 	bash goostats "${datafile}" stats-"${datafile}";
 done
 
-# this is a test
+# this is a test hello!
